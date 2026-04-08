@@ -1,0 +1,4 @@
+Direcciones:
+ Archivos originales de traduccion: Steam\steamapps\common\Stonehearth\mods
+  Los archivos .smod son archivos comprimidos normales
+   dentro de ellos esta la carpeta locales ejemplo Stonehearth\mods\stonehearth.smod\stonehearth\locales\
