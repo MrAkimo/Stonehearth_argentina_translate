@@ -1,0 +1,32 @@
+{
+	"info" : {
+		"name" : "Argentina Translation",
+		"namespace" : "argentina_translation",
+		"version" : 3,
+		"steam_file_id" : "1372603881",
+		"client_only" : true
+	},
+	"default_locale" : "en",
+	"ui": {
+		"js": [
+			"file(ui/root/js/loadLocales.js)"
+			]
+	},
+	"aliases" : {
+	},
+	"mixintos" : {
+		"stonehearth/locales/supported_languages.json": "file(added_languages.json)"
+		
+	},
+	"overrides" : {
+		"stonehearth/locales/es-AR.json": "file(translations/stonehearth/es-AR.json)",
+
+		"rayyas_children/locales/es-AR.json": "file(translations/rayyas_children/rayyas_children.json)",
+
+		"northern_alliance/locales/es-AR.json": "file(translations/northern_alliance/northern_alliance.json)"
+	},
+	"components" : {
+	},
+	"controllers" : {
+	}
+}
