@@ -16010,110 +16010,110 @@
 	"jobs": {
 		"common": {
 			"recipes": {
-				"legendary_name": "Legendary"
+				"legendary_name": "Legendario"
 			}
 		},
 		"animal_trainer": {
 			"animal_trainer_description": {
-				"display_name": "???",
-				"description": "???",
-				"requirements": "???"
+				"display_name": "????",
+				"description": "????",
+				"requirements": "????"
 			}
 		},
 		"archer": {
 			"archer_outfit": {
-				"display_name": "Archer's Padded Vest",
-				"description": "Offers light protection",
+				"display_name": "Chaleco acolchado para arquero",
+				"description": "Ofrece una pequeña protección",
 				"archer_hood": {
-					"display_name": "Archer's Cloak",
-					"description": "Hooded protection for one's head"
+					"display_name": "Capucha para arqueros",
+					"description": "Una leve protección craneal"
 				}
 			},
 			"archer_description": {
-				"display_name": "Archer",
-				"description": "A ranged combat unit that shoots foes with arrows",
-				"requirements": "Crafted by Carpenter",
+				"display_name": "Arquero",
+				"description": "Unidad a distancia que dispara flechas a los enemigos",
+				"requirements": "Fabricado por el Carpintero",
 				"level_1_data": {
-					"perk_000_name": "Bow Proficiency",
-					"perk_001_name": "Increased Draw Strength",
-					"perk_000_description": "The archer is able to use a bow to shoot arrows at enemies",
-					"perk_001_description": "The archer's damage is increased"
+					"perk_000_name": "Dominio del arco",
+					"perk_001_name": "Potencia de tiro",
+					"perk_000_description": "El arquero puede usar un arco para disparar flechas a los enemigos",
+					"perk_001_description": "El daño del arquero aumenta"
 				},
 				"level_2_data": {
-					"perk_000_name": "Armor Piercing Arrows",
-					"perk_000_description": "The archer's shots ignore 50% of the target's armor"
+					"perk_000_name": "Punta perforante",
+					"perk_000_description": "Los disparos ignoran 50% de la armadura del objetivo"
 				},
 				"level_3_data": {
-					"perk_000_name": "Range Increase",
-					"perk_000_description": "The Archer can attack enemies from further away"
+					"perk_000_name": "Foco (alcance +)",
+					"perk_000_description": "Aumenta el alcance de disparo del arquero"
 				},
 				"level_5_data": {
-					"perk_000_name": "Range Increase (Rank 2)",
-					"perk_000_description": "The Archer can attack enemies from very far away"
+					"perk_000_name": "Hiperfoco (alcance ++)",
+					"perk_000_description": "Aumenta aun mas el alcance de disparo del arquero"
 				},
 				"level_4_data": {
-					"perk_000_name": "Draw Speed Up",
-					"perk_000_description": "The archer shoots arrows with greater speed"
+					"perk_000_name": "Disparo rápido",
+					"perk_000_description": "El arquero dispara flechas más rápido"
 				},
 				"level_6_data": {
-					"perk_000_name": "Double Shot",
-					"perk_000_description": "The archer learns the ancient art of quick shots, allowing rapid firing of two arrows in rapid succession"
+					"perk_000_name": "Disparo Doble",
+					"perk_000_description": "Una antigua técnica que requiere manos rápidas y practica "
 				}
 			},
 			"archer_buffs": {
 				"damage_1_buff": {
-					"display_name": "Damage +20%",
-					"description": "The archer's damage is increased."
+					"display_name": "Daño +20%",
+					"description": "Flechas mas afiladas mas daño"
 				},
 				"slowing_arrow": {
-					"display_name": "Slowed",
-					"description": "Movement speed slowed by Spikey Arrows"
+					"display_name": "Ralentizado",
+					"description": "Movimiento ralentizado por flechas venenosas"
 				},
 				"fire_arrow": {
-					"display_name": "On Fire",
-					"description": "Set aflame! Taking fire damage every 5 minutes for 15 minutes"
+					"display_name": "On Fire!!",
+					"description": "En llamas! Recibe daño de fuego cada 5 minutos durante 15 minutos"
 				}
 			}
 		},
 		"architect": {
 			"architect_description": {
-				"display_name": "Architect",
-				"description": "???",
-				"requirements": "???",
+				"display_name": "Arquitecto",
+				"description": "????",
+				"requirements": "????",
 				"level_1_data": {
-					"perk_000_name": "Fast Construction",
-					"perk_001_name": "Conservation of Materials",
-					"perk_000_description": "Build faster!",
-					"perk_001_description": "Have a chance every fabrication to not consume a stack of building material."
+					"perk_000_name": "Construcción rápida",
+					"perk_001_name": "Conservación de la materia ",
+					"perk_000_description": "Como buen empleado en negro",
+					"perk_001_description": "Existe la posibilidad de que colocar materiales no los consuma"
 				}
 			}
 		},
 		"armorsmith": {
 			"armorsmith_description": {
-				"display_name": "???",
-				"description": "???",
-				"requirements": "???"
+				"display_name": "????",
+				"description": "????",
+				"requirements": "????"
 			}
 		},
 		"big_game_hunter": {
 			"big_game_hunter_description": {
-				"display_name": "???",
-				"description": "???",
-				"requirements": "???"
+				"display_name": "????",
+				"description": "????",
+				"requirements": "????"
 			}
 		},
 		"blacksmith": {
 			"blacksmith_description": {
-				"display_name": "Blacksmith",
-				"description": "The Blacksmith refines raw ore into metal bars, then uses those bars to craft weapons, armor, and building parts like gates.",
-				"requirements": "Crafted by Mason",
+				"display_name": "Herrero",
+				"description": "El herrero transforma mineral en lingotes y los usa para crear armas, armaduras y estructuras como portones.",
+				"requirements": "Fabricado por el Mason",
 				"level_6_data": {
-					"title": "Master Blacksmith",
-					"perk_000_name": "The Armory",
-					"perk_000_description": "The Blacksmith's mastery of their trade allows them to create the finest weapons and armors seen since the forgotten Phoenix Empire."
+					"title": "Herrero Maestro",
+					"perk_000_name": "La Armería Olvidada",
+					"perk_000_description": "La maestría del herrero le permite forjar armas y armaduras sin igual desde los tiempos del olvidado Imperio Fénix."
 				},
 				"level_2_data": {
-					"perk_000_name": "Iron Age!",
+					"perk_000_name": "Edad de Hierro",
 					"perk_000_description": "The Blacksmith is now skilled enough to forge heavy items made of iron."
 				},
 				"level_4_data": {
