@@ -16114,176 +16114,176 @@
 				},
 				"level_2_data": {
 					"perk_000_name": "Edad de Hierro",
-					"perk_000_description": "The Blacksmith is now skilled enough to forge heavy items made of iron."
+					"perk_000_description": "El herrero ya tiene la suficiente habilidad como para manejar el hierro."
 				},
 				"level_4_data": {
-					"perk_000_name": "Cold Steel",
-					"perk_000_description": "Long hours at the forge have unlocked the secret of steel: sharper weapons and lighter armor."
+					"perk_000_name": "El frio de acero",
+					"perk_000_description": "Largas horas de forja y calor le enseñaron los secretos del acero: hojas afiladas y armaduras livianas."
 				},
 				"level_1_data": {
-					"perk_000_name": "Bronze Age!",
-					"perk_000_description": "The secrets of bronze are now available to the Blacksmith."
+					"perk_000_name": "Edad de Bronce",
+					"perk_000_description": "Un poco de imaginación revelaron los secretos del bronce "
 				},
 				"level_3_data": {
-					"perk_000_name": "Journeyman's Knowledge",
-					"perk_000_description": "When inspiration strikes, the Blacksmith may now craft an especially Fine quality of placeable item."
+					"perk_000_name": "Primer Oficial",
+					"perk_000_description": "Cuando le llegue la inspiración, el herrero podrá crear un objetos colocables de una calidad especialmente fina."
 				},
 				"level_5_data": {
-					"perk_000_name": "Master's Insight",
-					"perk_000_description": "The Blacksmith can now create items of Excellent quality, and will make Fine quality items more often."
+					"perk_000_name": "La visión del maestro",
+					"perk_000_description": "El herrero ahora puede crear objetos de excelente calidad y fabricará objetos de buena calidad con mayor frecuencia."
 				}
 			},
 			"blacksmith_forge": {
 				"blacksmith_forge_ghost": {
-					"display_name": "Forge",
-					"description": "A stone oven for heating metal"
+					"display_name": "Forjar",
+					"description": "Un horno de piedra para calentar metales"
 				}
 			},
 			"blacksmith_hammer": {
-				"display_name": "Blacksmith's Hammer",
-				"description": "Tools of the trade for a blacksmith.",
+				"display_name": "Martillo del herrero",
+				"description": "Herramientas de trabajo para un herrero.",
 				"blacksmith_hammer_iconic": {
-					"display_name": "Blacksmith's Hammer",
-					"description": "Tools of the trade for a blacksmith."
+					"display_name": "Martillo del herrero",
+					"description": "Herramientas de trabajo para un herrero."
 				},
 				"blacksmith_hammer_talisman": {
-					"display_name": "Blacksmith's Hammer",
-					"description": "Required to promote a hearthling to a blacksmith."
+					"display_name": "Martillo del herrero",
+					"description": "Se requiere para ascender a un hearthling a la profesión de herrero"
 				}
 			},
 			"blacksmith_outfit": {
-				"display_name": "Blacksmith Overalls",
-				"description": "Uniform for all blacksmiths"
+				"display_name": "Overol para herrería",
+				"description": "Un uniforme básico para los herreros"
 			},
 			"blacksmith_workbench": {
 				"blacksmith_workbench_ghost": {
-					"display_name": "Blacksmith Anvil",
-					"description": "Used by the Blacksmith for crafting."
+					"display_name": "Yunque del herrero",
+					"description": "Utilizado por el herrero para la fabricación de objetos."
 				}
 			},
 			"recipes": {
 				"iron_shield_recipe": {
-					"description": "Heavy, but effective.",
-					"flavor": "'Buck up, recruit! Better the shield dent than you!' -Thredd, Man at Arms",
-					"recipe_name": "Iron Shield"
+					"description": "Pesado, pero efectivo.",
+					"flavor": "¡Ánimo, recluta! ¡Mejor que el escudo se abolle a que te abolle! -Thredd, Hombre de Armas",
+					"recipe_name": "Escudo de Hierro"
 				},
 				"bronze_breastplate_recipe": {
-					"description": "Partial but sturdy coverage against blunt and edged weapons.",
-					"recipe_name": "Bronze Breastplate",
-					"flavor": "Design reminiscent of the Phoenix's Legions."
+					"description": "Cobertura parcial pero robusta contra armas contundentes y cortantes.",
+					"recipe_name": "Coraza de bronce",
+					"flavor": "Diseño que recuerda a las Legiones del Fénix."
 				},
 				"bronze_ingot_recipe": {
-					"description": "Two bars of pure bronze. A suitable material for crafted goods.",
-					"recipe_name": "Bronze Ingot (x2)",
-					"flavor": "The masters of old considered its production, evidence of our triumph over the earth."
+					"description": "Dos barras de bronce puro. Un material idóneo para la elaboración de objetos artesanales.",
+					"recipe_name": "Lingote de bronce (x2)",
+					"flavor": "Los antiguos maestros consideraban su producción como prueba de nuestro triunfo sobre la tierra."
 				},
 				"bronze_mace_recipe": {
-					"description": "Heavy, it packs a wallop.",
-					"recipe_name": "Bronze Mace",
-					"flavor": "The good news: there is no pointy end."
+					"description": "Es pesada y pega con mucha fuerza.",
+					"recipe_name": "Maza de bronce",
+					"flavor": "La buena noticia no te puedes pinchar."
 				},
 				"bronze_sword_recipe": {
-					"description": "Basic, but better than fighting with a sharpened stick!",
-					"recipe_name": "Bronze Sword",
-					"flavor": "Made in the shape of Braun's own blade."
+					"description": "Sencilla, Pero mejor que pelear con un palo!",
+					"recipe_name": "Espada de bronce",
+					"flavor": "Forjada con la forma de la propia espada de Braun."
 				},
 				"carpenter_saw_recipe": {
-					"description": "Required to promote a hearthling into a Carpenter.",
-					"recipe_name": "Carpenter's Saw",
-					"flavor": "Now the circle can begin anew."
+					"description": "Se requiere para ascender a un hearthling a la profesión de carpintero.",
+					"recipe_name": "Sierra de carpintero",
+					"flavor": "Ahora el ciclo puede comenzar de nuevo."
 				},
 				"copper_ingot_recipe": {
-					"description": "A bar of pure copper. A suitable material for crafted goods.",
-					"recipe_name": "Copper Ingot",
-					"flavor": "Smooth and silky to the touch"
+					"description": "Una barra de cobre puro. Un material idóneo para la elaboración de artículos artesanales.",
+					"recipe_name": "Lingote de cobre",
+					"flavor": "Liso y pulido al tacto"
 				},
 				"gold_ingot_recipe": {
-					"description": "A bar of pure gold. A suitable material for crafted goods.",
-					"recipe_name": "Gold Ingot",
-					"flavor": "The most expensive bludgeon ever."
+					"description": "Una barra de oro puro. Un material idóneo para la elaboración de artículos artesanales.",
+					"recipe_name": "Lingote de oro",
+					"flavor": "Y recuerda siempre compra oro."
 				},
 				"iron_ingot_recipe": {
-					"description": "A bar of pure Iron. A suitable material for crafted goods.",
-					"recipe_name": "Iron Ingot",
-					"flavor": "To both swords and plowshares, what an egg is to a chicken."
+					"description": "Una barra de hierro puro. Un material idóneo para la elaboración de productos artesanales.",
+					"recipe_name": "Lingote de hierro",
+					"flavor": "Tan esencial para espadas y arados como el huevo para la gallina."
 				},
 				"iron_mace_recipe": {
-					"description": "Heavy, it packs a wallop.",
-					"recipe_name": "Iron Mace",
-					"flavor": "And Erin rested her forehead upon it, and the iron stole away enchantment and memory, together."
+					"description": "Es pesada y pega con mucha fuerza.",
+					"recipe_name": "Maza de hierro",
+					"flavor": "Y Erin apoyó la frente sobre ella, y el hierro apagó su magia y borró sus recuerdos en un instante."
 				},
 				"iron_mail_recipe": {
-					"description": "A full suit of heavy, durable iron armor.",
-					"recipe_name": "Iron Mail",
-					"flavor": "But he'd hidden his heart in an iron fortress, and no fey could touch it. --Songs of Evermarth"
+					"description": "Una armadura completa de hierro, pesada y resistente.",
+					"recipe_name": "Armadura de hierro",
+					"flavor": "Pero había escondido su corazón en una fortaleza de hierro, y ninguna criatura feérica podía tocarlo. --Canciones de Evermarth"
 				},
 				"iron_pike_recipe": {
-					"description": "Sharp. Long. Pointy.",
-					"recipe_name": "Iron pike",
-					"flavor": "'Coward,' Elden spat. 'Face me blade to blade, or no knight be you.'"
+					"description": "Afilado. Largo. Puntiagudo.",
+					"recipe_name": "Pica de hierro",
+					"flavor": "-Cobarde -soltó Elden-. Enfréntate a mí espada contra espada, o no serás ningún caballero."
 				},
 				"long_sword_recipe": {
-					"description": "Sharp, with extra reach. A faithful weapon.",
-					"recipe_name": "Long Sword",
-					"flavor": "'Hah! The only weapon worthy of specialization. --Lady Giest"
+					"description": "Afilada, con mayor alcance. Un arma fiable.",
+					"recipe_name": "Espada larga",
+					"flavor": "-¡Ja! La única arma digna de dominar - dijo Lady Geist."
 				},
-				"weapons_name": "Weapons",
-				"smelt_name": "Smelting",
-				"armor_name": "Armor",
-				"tools_name": "Tools",
+				"weapons_name": "Armas",
+				"smelt_name": "Fundición",
+				"armor_name": "Armaduras",
+				"tools_name": "Herramientas",
 				"short_sword_recipe": {
-					"description": "Stubby, but its steel blade keeps an edge.",
-					"recipe_name": "Steel Short Sword",
-					"flavor": "But, does it glow when orcs are near?"
+					"description": "Regordeta, pero su hoja de acero mantiene el filo.",
+					"recipe_name": "Espada corta de acero",
+					"flavor": "Pero, ¿brilla cuando hay orcos cerca?"
 				},
 				"silver_ingot_recipe": {
-					"description": "A bar of pure silver. A suitable material for crafted goods.",
-					"recipe_name": "Silver Ingot",
-					"flavor": "A pair of silver shoes once started a Phoenix war over currency."
+					"description": "Una barra de plata pura. Un material idóneo para la elaboración de artículos artesanales.",
+					"recipe_name": "Lingote de plata",
+					"flavor": "Un par de zapatos de plata desató una guerra en el Imperio Fénix por su valor."
 				},
 				"steel_ingot_recipe": {
-					"description": "A bar of pure steel. A suitable material for crafted goods.",
-					"recipe_name": "Steel Ingot",
-					"flavor": "The beginning of the modern age."
+					"description": "Una barra de acero puro. Un material idóneo para la elaboración de artículos artesanales.",
+					"recipe_name": "Lingote de acero",
+					"flavor": "El comienzo de la era moderna."
 				},
 				"steel_mail_recipe": {
-					"description": "A full suit of heavy, durable steel armor.",
-					"recipe_name": "Full Platemail",
-					"flavor": "Full Metal Jacket"
+					"description": "Una armadura completa de acero pesado y resistente.",
+					"recipe_name": "Armadura de placas completa",
+					"flavor": "Full Metal Jacket."
 				},
 				"tin_ingot_recipe": {
-					"description": "A bar of pure tin. A suitable material for crafted goods.",
-					"recipe_name": "Tin Ingot",
-					"flavor": "Step 1: Beat thin. Step 2: Use to cover roof of town hall."
+					"description": "Una barra de estaño puro. Un material adecuado para la elaboración de artículos artesanales.",
+					"recipe_name": "Lingote de estaño",
+					"flavor": "Paso 1: Martillar hasta dejarlo fino. Paso 2: Usarlo para cubrir el techo de la sala comunal."
 				},
 				"trapper_knife_recipe": {
-					"description": "Required to promote a hearthling into a Trapper.",
-					"recipe_name": "Trapper's Knife",
-					"flavor": "Keep your edge whisker sharp, boy, and cut quick. --Willard Foxghost"
+					"description": "Requerido para ascender a un hearthling a trampero",
+					"recipe_name": "Cuchillo de trampero",
+					"flavor": "Mantén el filo y el bigote bien afilados, chico, y corta rápido. —Willard Foxghost"
 				},
 				"two_handed_sword_recipe": {
-					"description": "Double the hands, double the trouble.",
-					"recipe_name": "Two Handed Sword"
+					"description": "El doble de manos, el doble de problemas.",
+					"recipe_name": "Espada a dos manos"
 				},
 				"blacksmith_forge_recipe": {
-					"description": "Smelt metals into ingots.",
-					"recipe_name": "Blacksmith's Forge",
-					"flavor": "In flame, purity, in purity, strength. -Lucan Varius, Artifex Ignis"
+					"description": "Funde los metales para convertirlos en lingotes.",
+					"recipe_name": "La forjar del herrero",
+					"flavor": "En la llama, pureza; en la pureza, fuerza. -Lucan Varius, Artifex Ignis"
 				},
 				"blacksmith_workbench_recipe": {
-					"description": "Used to create weapons and armor out of ingots.",
-					"recipe_name": "Blacksmith's Anvil",
-					"flavor": "It is no coincidence that the metaphors of good character descend from work of the smith. -Lucan Varius, Artifex Ignis"
+					"description": "Se utiliza para fabricar armas y armaduras a partir de lingotes.",
+					"recipe_name": "Yunque del herrero",
+					"flavor": "No es casualidad que las metáforas del buen carácter provengan del trabajo del herrero. -Lucano Vario, Artifex Ignis"
 				},
-				"workbenches_name": "Workbenches",
-				"storage_name": "Storage",
+				"workbenches_name": "Bancos de trabajo",
+				"storage_name": "Almacenamiento",
 				"vault_recipe": {
-					"description": "Massive storage for 256 items!",
-					"recipe_name": "Vault",
-					"flavor": "Conceived by the brilliant Arci, Survivor of Chaat"
+					"description": "Almacenamiento masivo para 256 artículos!",
+					"recipe_name": "Bóveda",
+					"flavor": "Concebida por la brillante Arci, sobreviviente de Chaat."
 				},
 				"iron_coif_recipe": {
-					"description": "Protection for your head",
+					"description": "Protección para tu cabeza",
 					"recipe_name": "Iron Coif"
 				},
 				"steel_helmet_recipe": {
